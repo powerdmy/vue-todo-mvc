@@ -1,6 +1,6 @@
 # vue-todo
 
-> vue-todo-mvc (I practice the vuex)
+> vue-todo-mvc (I practice the vuex) [线上访问](https://powerdmy.github.io/vue-todo-mvc)
 
 ## Build Setup
 
