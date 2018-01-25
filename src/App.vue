@@ -15,7 +15,7 @@
         </ul>
       </section>
       <!-- footer -->
-      <footer class="footer">
+      <footer class="footer" v-show="todos.length">
         <span class="todo-count">
           <strong>{{ remainNum }}</strong>
           {{ remainNum | addS('item') }} left
